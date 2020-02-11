@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>anuj</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-02-11T14:48:18-08:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Anuj Bhatia</name>
+   <email>anuj@devnos.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Focus</title>
+   <link href="http://localhost:4000/2020/01/29/focus-app/"/>
+   <updated>2020-01-29T13:55:00-08:00</updated>
+   <id>http://localhost:4000/2020/01/29/focus-app</id>
+   <content type="html">&lt;p&gt;Built myself a quick little &lt;code class=&quot;highlighter-rouge&quot;&gt;focus&lt;/code&gt; bash function that displays a timer, blocks out distractions, and logs time spent 🚀&lt;/p&gt;
+
+&lt;p&gt;Usage:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;    focus 15m &lt;span class=&quot;s2&quot;&gt;&quot;Work on Azure&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2019-01-29-focus-app.jpeg&quot; alt=&quot;focus_app&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Podcast w/ Derek Russell</title>
+   <link href="http://localhost:4000/2019/10/09/data-binge-podcast/"/>
+   <updated>2019-10-09T01:00:00-07:00</updated>
+   <id>http://localhost:4000/2019/10/09/data-binge-podcast</id>
+   <content type="html">&lt;p&gt;Had the pleasure of a delightful and engaging conversation with Derek Russell on the Data Binge Podcast.&lt;/p&gt;
+
+&lt;p&gt;Topics:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Software and leveraged activities&lt;/li&gt;
+  &lt;li&gt;Culture and places&lt;/li&gt;
+  &lt;li&gt;AI and Mixed Reality&lt;/li&gt;
+  &lt;li&gt;Thoughtfulness in human connection&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This inspired me to consider starting my own short form podcast, meaning roughly ~10min. Would love to hear from you on topics that you might find interesting.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/yDgKN-S737w&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Joining AI Platform</title>
+   <link href="http://localhost:4000/2019/08/19/ai-at-msft/"/>
+   <updated>2019-08-19T01:00:00-07:00</updated>
+   <id>http://localhost:4000/2019/08/19/ai-at-msft</id>
+   <content type="html">&lt;p&gt;Quick update. I’m joining the AI Platform Team at Microsoft. It’s going to be a fun ride.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gratitude</title>
+   <link href="http://localhost:4000/2019/04/12/gratitude/"/>
+   <updated>2019-04-12T12:41:28-07:00</updated>
+   <id>http://localhost:4000/2019/04/12/gratitude</id>
+   <content type="html">&lt;p&gt;Gratitude is the best preparation for uncertainty.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2019-04-12-russian-river.jpg&quot; alt=&quot;russian_river&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>self.blog.restart()</title>
+   <link href="http://localhost:4000/2016/03/10/self-blog-restart/"/>
+   <updated>2016-03-10T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2016/03/10/self-blog-restart</id>
+   <content type="html">&lt;p&gt;A rainy day in San Francisco. A good day to blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2016-03-10.png&quot; alt=&quot;rainy_sf&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
