@@ -3,7 +3,7 @@ layout: post
 title:  Reverse Resume
 ---
 
-Inspired by Dave Cahill's post on his [Reverse Resume]( https://medium.com/not-a-straight-line/a-reverse-resume-89b0fbe07cb7) I thought it was an interesting time to reflect on my own journey. I particiarly like that it helps to capture the non-linear and unique experiences that are often ommitted in the journey. 
+Inspired by Dave Cahill's post on his [Reverse Resume]( https://medium.com/not-a-straight-line/a-reverse-resume-89b0fbe07cb7) I thought it was an interesting time to reflect on my own journey. I particularly like that it helps to capture the non-linear and unique experiences that are often omitted in the journey. 
 
 So here we go —
 
