@@ -61,6 +61,6 @@ Shortly after having our daughter, COVID-19 spread around the world. I started i
 “Some mistakes will be made along the way. That’s good. Because some decisions are being made along the way. We’ll find the mistakes. We’ll fix them.”
 — Steve Jobs at WWDC (1997)
 
-I've learned some hard lessons this year, and simultaneously feel more gratitude and joy than ever. The lessons
+I've learned some hard lessons this year, and simultaneously feel more gratitude and joy than ever.
 
 In writing this, I've realized that the [milestones in my journey](https://sive.rs/mny) don't align to the roles or companies in my resume. But instead...to what I've learned, the ideas I've been exposed to, and the amazing people along the journey with me. This post is a celebration of those people and ideas.
