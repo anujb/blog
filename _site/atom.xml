@@ -4,7 +4,7 @@
  <title>anuj</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-08-27T16:55:05-07:00</updated>
+ <updated>2020-08-27T18:32:41-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Anuj Bhatia</name>
@@ -34,7 +34,7 @@
 
 &lt;p&gt;My one saving grace, I was good at writing software. So I loaded up on coursework and graduated early, while simultaneously landing a Bioinformatics internship at amongst the top Medical Center in the state. Turns out, software engineering pays way more than computational Genomics research.&lt;/p&gt;
 
-&lt;p&gt;Shortly after the collapse of Bear Stearns and a ~50% decline in stock market, I was lucky enough to get my first job out of college as the second engineer at a startup building software for municipalities, paramedics, and firefighters. This was amongst the most humbling experiences of my professional career. Every bug is impactful, not just because of the lost revenue but because there’s a First Responder on the other end, for which frustration manifests as a distraction from preventing loss of life/property.&lt;/p&gt;
+&lt;p&gt;Shortly after the collapse of Bear Stearns and a ~50% decline in the stock market, I was lucky enough to get my first job out of college as the second engineer at a startup building software for municipalities, paramedics, and firefighters. This was amongst the most humbling experiences of my professional career. Every bug is impactful, not just because of the lost revenue but because there’s a First Responder on the other end, for which frustration manifests as a distraction from preventing loss of life/property.&lt;/p&gt;
 
 &lt;p&gt;When the iPhone came out in 2007, our team was absolutely floored. I distinctly remember walking into my CTOs office, and we instantly knew we had to figure out how to scale the system to the iPhone and make it available more broadly. Porting our software to Objective-C was simultaneously fun and incredibly frustrating…and then serendipitously I discovered Xamarin. For me, it was more than just a developer tool, it was a community of the quirkiest runtime engineers and open-source enthusiasts working to make a delightful developer experience. I had found my tribe, racked up thousands of StackOverflow points, and gigabytes of IRC logs working with the community. What impressed me most as a young engineer — I would show up with a multi-threading issue and would be greeted with deeply helpful questions, and an enthusiastic curiosity about my experience.&lt;/p&gt;
 
