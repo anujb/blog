@@ -39,7 +39,7 @@ Almost exactly 4 years after moving to San Francisco, Microsoft [acquired](https
 </p>
 
 
-However, the stillness didn't last long. The transition was a cacophony decisions: figuring out how to navigate a new role/culture, deciding whether the work was purposeful, and the politics in a large organization. These things were too foreign to me, and unlike others I didn't have a bearing on my "[philosophy for living](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)." My work had consumed most of my energy. Ultimately, I renewed focus on the one thing I knew worked for me: solving problems for customers. There is incredible purpose in making others successful, empowering them to achieve their goals. 
+However, the stillness didn't last long. The transition was a cacophony of decisions: figuring out how to navigate a new role/culture, deciding whether the work was purposeful, and the politics in a large organization. These things were too foreign to me, and unlike others I didn't have a bearing on my "[philosophy for living](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)." My work had consumed most of my energy. Ultimately, I renewed focus on the one thing I knew worked for me: solving problems for customers. There is incredible purpose in making others successful, empowering them to achieve their goals. 
 
 In my time at Microsoft I have racked up more time in planes and hotels than I had ever imagined possible. But the ability to learn from such a diverse set of people has been a gift. There's so much more behind every person and organization that simply requires meeting them where they are. 
 
