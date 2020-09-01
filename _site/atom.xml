@@ -4,7 +4,7 @@
  <title>anuj</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-09-01T10:17:52-07:00</updated>
+ <updated>2020-09-01T10:29:41-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Anuj Bhatia</name>
@@ -25,7 +25,7 @@
 
 &lt;p&gt;After attending NeurIPS 2019, I too walked away with a strong thesis that ML/DL is experiencing a local minima. Or in &lt;a href=&quot;https://en.wikipedia.org/wiki/Hype_cycle&quot;&gt;hype cycle&lt;/a&gt; parlance, a “trough of disillusionment.”&lt;/p&gt;
 
-&lt;p&gt;I’m also reminded of this quote from Mark, who’s thinking I admire on the topic:&lt;/p&gt;
+&lt;p&gt;I’m also reminded of this quote from Mark, whose thinking I admire on the topic:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;AI is like traveling back to 1995 and people realize they need a website and half the people don’t know what that is. It’s a new form of programming, that enables teaching, instead of rules based tasks.&lt;/p&gt;

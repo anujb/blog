@@ -11,7 +11,7 @@ Apropos of nothing, Francois Cholllet posted on Twitter that there's been a shar
 
 After attending NeurIPS 2019, I too walked away with a strong thesis that ML/DL is experiencing a local minima. Or in [hype cycle](https://en.wikipedia.org/wiki/Hype_cycle) parlance, a "trough of disillusionment."
 
-I'm also reminded of this quote from Mark, who's thinking I admire on the topic:
+I'm also reminded of this quote from Mark, whose thinking I admire on the topic:
 
 > AI is like traveling back to 1995 and people realize they need a website and half the people don't know what that is. It's a new form of programming, that enables teaching, instead of rules based tasks.
 >> -Mark Hammond
