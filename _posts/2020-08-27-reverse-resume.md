@@ -3,13 +3,13 @@ layout: post
 title:  Reverse Resume
 ---
 
-Inspired by Dave Cahill's post on his [Reverse Resume]( https://medium.com/not-a-straight-line/a-reverse-resume-89b0fbe07cb7) I thought it was an interesting time to reflect on my own journey. I particularly like that it helps to capture the non-linear and unique experiences that are often omitted in the journey. 
+Inspired by Dave Cahill's post on his [Reverse Resume]( https://medium.com/not-a-straight-line/a-reverse-resume-89b0fbe07cb7) I thought it was an interesting time to reflect on my own journey. I particularly like that it helps to capture the non-linear and unique experiences that are often omitted in one's journey. 
 
 So here we go —
 
 I grew up poor. Life was full of scarcity. I knew I wanted to remove that scarcity from life, and the only path I knew out was to become a Medical Doctor, so I pursued a dual degree in Virology and Biochemistry. Then two crazy things happened: 
 
-1. I met a medical student told me it would cost ~$500K in additional tuition/expenses, and I would be roughly 30 before I would start practicing medicine.
+1. I met a medical student told me it would cost ~$500K in additional tuition/expenses, and I would be roughly 30 before I started  practicing medicine.
 
 2. The financial world collapsed, which destroyed my ability to work and save up for this overwhelming financial and time commitment. 
 
@@ -58,8 +58,8 @@ I often joke — being a father is the most important "software" I will ever co
 
 Shortly after having our daughter, COVID-19 spread around the world. I started investing more in my work to help people organizations cope with the needs of a brave new world. I'm proud of what we've accomplished in just the last 6 months. I've also learned to say, "No" more often. And be confident that how I prioritize my time/impact may be incongruous with others expectations. Earlier in my career, it would've been hard to be so disciplined. But even if some of those "No's" end up being mistakes, that's good: 
 
-“Some mistakes will be made along the way. That’s good. Because some decisions are being made along the way. We’ll find the mistakes. We’ll fix them.”
-— Steve Jobs at WWDC (1997)
+>“Some mistakes will be made along the way. That’s good. Because some decisions are being made along the way. We’ll find the mistakes. We’ll fix them.”
+>> — Steve Jobs at WWDC (1997)
 
 I've learned some hard lessons this year, and simultaneously feel more gratitude and joy than ever.
 

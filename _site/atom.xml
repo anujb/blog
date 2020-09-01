@@ -4,7 +4,7 @@
  <title>anuj</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-08-27T18:32:41-07:00</updated>
+ <updated>2020-09-01T10:14:18-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Anuj Bhatia</name>
@@ -13,11 +13,52 @@
 
  
  <entry>
+   <title>Deep Learning Recession</title>
+   <link href="http://localhost:4000/2020/09/01/deep-learning-recession/"/>
+   <updated>2020-09-01T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2020/09/01/deep-learning-recession</id>
+   <content type="html">&lt;p&gt;Despite the &lt;a href=&quot;https://nesslabs.com/gpt-3-future-productivity&quot;&gt;excitement&lt;/a&gt; around GPT-3, there’s been surprisingly little hype (read as: large corporate marketing) on the topic of AI/ML.&lt;/p&gt;
+
+&lt;p&gt;Apropos of nothing, Francois Cholllet posted on Twitter that there’s been a sharp decline in Deep Learning job postings. The link to the tweet, as well as the HN discussion:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=24330326&quot;&gt;https://news.ycombinator.com/item?id=24330326&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;After attending NeurIPS 2019, I too walked away with a strong thesis that ML/DL is experiencing a local minima. Or in &lt;a href=&quot;https://en.wikipedia.org/wiki/Hype_cycle&quot;&gt;hype cycle&lt;/a&gt; parlance, a “trough of disillusionment.”&lt;/p&gt;
+
+&lt;p&gt;I’m also reminded of this quote from Mark, who’s thinking I admire on the topic:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;AI is like traveling back to 1995 and people realize they need a website and half the people don’t know what that is. It’s a new form of programming, that enables teaching, instead of rules based tasks.&lt;/p&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;-Mark Hammond&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;a href=&quot;https://twitter.com/fchollet/status/1300417952211034112/photo/1&quot;&gt;
+&lt;img src=&quot;/assets/images/2020-08-31-ml-jobs.jpg&quot; href=&quot;https://twitter.com/fchollet/status/1300417952211034112/photo/1&quot; /&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;My discussion with Matei (co-founder @ Databricks) provides balance, and anecdotal evidence that the labor market can calibrate headcount investment, while existing funded projects can continue and grow at large enterprises with resilient budgets for both research and production deployments.&lt;/p&gt;
+
+&lt;blockquote align=&quot;center&quot; class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Why can’t both be true? &lt;br /&gt;&lt;br /&gt;Totally possible Databricks usage is growing and decline in headcount investment for overall market.&lt;/p&gt;&amp;mdash; Anuj Bhatia (@anooj) &lt;a href=&quot;https://twitter.com/anooj/status/1300537625531482112?ref_src=twsrc%5Etfw&quot;&gt;August 31, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;As someone who spends most days helping ML practitioners on our platform, this LinkedIn data is a remarkable indicator even in the context of the macro employment and economic environment. However, it does seem intuitive that AI/ML is a multi-decade project to empower humanity. This is unlike the mobile era, which (post-iPhone) took only 10 years to reach saturation in unit growth. Where the first 5 years of adoption were mostly capital allocation decisions, not business model transformation. Fundamentally, many (even technology) organizations will simply self-select based on their culture, business models, and previous foundational investments.&lt;/p&gt;
+
+&lt;p&gt;You could see the same kind of bifurcation in the late-1990s/early-2000s. Among my favorite examples is American Airlines’ creation of Sabre Corporation (at one point, the largest commercial real-time data-processing system for bookings). AAL then spun it out as a separate business which subsequently led to Travelocity. The value created by the initial investment in technology is amazing. The technology was widely available to all airline operators, but only one was able to create a meaningful technology platform enabled by the internet.&lt;/p&gt;
+
+&lt;p&gt;As AI (and the related data engineering) becomes cheaper, more accessible, and better packaged in APIs and connectors, I’m on the hunt for the &lt;a href=&quot;https://hbr.org/2016/09/know-your-customers-jobs-to-be-done&quot;&gt;jobs to be done&lt;/a&gt;. More than anything, I’m excited that customers are getting increasingly disciplined in how they approach projects, think about success, and reason about the return on invested capital.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Reverse Resume</title>
    <link href="http://localhost:4000/2020/08/27/reverse-resume/"/>
    <updated>2020-08-27T00:00:00-07:00</updated>
    <id>http://localhost:4000/2020/08/27/reverse-resume</id>
-   <content type="html">&lt;p&gt;Inspired by Dave Cahill’s post on his &lt;a href=&quot;https://medium.com/not-a-straight-line/a-reverse-resume-89b0fbe07cb7&quot;&gt;Reverse Resume&lt;/a&gt; I thought it was an interesting time to reflect on my own journey. I particularly like that it helps to capture the non-linear and unique experiences that are often omitted in the journey.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Inspired by Dave Cahill’s post on his &lt;a href=&quot;https://medium.com/not-a-straight-line/a-reverse-resume-89b0fbe07cb7&quot;&gt;Reverse Resume&lt;/a&gt; I thought it was an interesting time to reflect on my own journey. I particularly like that it helps to capture the non-linear and unique experiences that are often omitted in one’s journey.&lt;/p&gt;
 
 &lt;p&gt;So here we go —&lt;/p&gt;
 
@@ -25,7 +66,7 @@
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;I met a medical student told me it would cost ~$500K in additional tuition/expenses, and I would be roughly 30 before I would start practicing medicine.&lt;/p&gt;
+    &lt;p&gt;I met a medical student told me it would cost ~$500K in additional tuition/expenses, and I would be roughly 30 before I started  practicing medicine.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;The financial world collapsed, which destroyed my ability to work and save up for this overwhelming financial and time commitment.&lt;/p&gt;
@@ -74,8 +115,12 @@
 
 &lt;p&gt;Shortly after having our daughter, COVID-19 spread around the world. I started investing more in my work to help people organizations cope with the needs of a brave new world. I’m proud of what we’ve accomplished in just the last 6 months. I’ve also learned to say, “No” more often. And be confident that how I prioritize my time/impact may be incongruous with others expectations. Earlier in my career, it would’ve been hard to be so disciplined. But even if some of those “No’s” end up being mistakes, that’s good:&lt;/p&gt;
 
-&lt;p&gt;“Some mistakes will be made along the way. That’s good. Because some decisions are being made along the way. We’ll find the mistakes. We’ll fix them.”
-— Steve Jobs at WWDC (1997)&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Some mistakes will be made along the way. That’s good. Because some decisions are being made along the way. We’ll find the mistakes. We’ll fix them.”&lt;/p&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;— Steve Jobs at WWDC (1997)&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;I’ve learned some hard lessons this year, and simultaneously feel more gratitude and joy than ever.&lt;/p&gt;
 
